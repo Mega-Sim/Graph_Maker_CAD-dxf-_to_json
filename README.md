@@ -1,4 +1,4 @@
-# DXF → Graph Converter
+# CAD파일 (DXF) → Graph Converter
 
 DXF 파일을 방향성 그래프(JSON)로 변환하는 독립 모듈입니다.
 
